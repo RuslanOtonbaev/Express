@@ -2,84 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49eaf02e-721e-4219-a2fd-247d8c1353bd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/address/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/address/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/formula/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/applyToDefaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/bench.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/block.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/clone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/contain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/deepEqual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/escapeHeaderAttribute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/escapeHtml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/escapeJson.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/escapeRegex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/flatten.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/ignore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/intersect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/merge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/once.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/reach.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/reachTemplate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/stringify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/lib/wait.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/hoek/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/hoek/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/dist/joi-browser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/cache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/compile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/errors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/extend.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/manifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/messages.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/modify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/ref.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/ref.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/schemas.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/schemas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/trace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/alternatives.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/any.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/binary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/boolean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/date.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/link.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/object.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/ip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/ip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/uri.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/string/uri.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/types/symbol.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/validator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/lib/values.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/joi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/joi/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/pinpoint/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/pinpoint/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/pinpoint/lib/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/pinpoint/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/pinpoint/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@hapi/topo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@hapi/topo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -121,16 +43,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            <state relative-caret-position="84">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="validation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/validation.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="393">
@@ -151,8 +73,8 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/model/user.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/routes/auth.js" />
         <option value="$PROJECT_DIR$/validation.js" />
+        <option value="$PROJECT_DIR$/routes/auth.js" />
       </list>
     </option>
   </component>
@@ -232,25 +154,25 @@
       <workItem from="1569235876222" duration="4950000" />
       <workItem from="1569298383132" duration="12000" />
       <workItem from="1569311256650" duration="928000" />
-      <workItem from="1569399226882" duration="1339000" />
+      <workItem from="1569399226882" duration="2351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12878000" />
+    <option name="totallyTimeSpent" value="13890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1837" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32460135" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32460135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -497,17 +419,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/validation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
